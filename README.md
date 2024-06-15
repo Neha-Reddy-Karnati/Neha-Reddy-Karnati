@@ -1,8 +1,9 @@
 ## Hi, I'm Neha Reddy Karnati👋
 
-<div style="text-align: center;">
-  <img src="C:/Users/Jayka/Downloads/Premium Vector _ Cute girl cartoon with laptop design illustration.jpg" alt="Circular Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+<div align="center">
+  <img src="Image.jpg" alt="Circular Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 </div>
+</br>
 
 <p align="Justify"> I am a recent Master's graduate in Computer Science with a passion for coding. Throughout my college journey, I have worked on several projects that have strengthened my skills in software development and full-stack development. I'm proficient in various programming languages and tools, and I thrive on solving complex problems. I'm now seeking an entry-level Software Developer or Full Stack Developer role where I can contribute my expertise and continue to grow in a dynamic team environment.</p>
 
